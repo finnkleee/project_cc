@@ -14,5 +14,115 @@
       
     
     
+    <item>
+      <title>Взаимодействие с заказчиком</title>
+      <link>http://localhost:1313/blog/thirdpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/thirdpost/</guid>
+      <description>
+        
+        
+        &lt;p&gt;На протяжении всего года мы ежемесячно проводили встречи с Дарьей Сергеевной Дьяковой, где обсуждали проделанную нами работу и будущие планы.&lt;/p&gt;
+&lt;p&gt;Кроме того, за год мы запустили служебные записки на имена деканов факультетов, дважды презентовали наш проект на Карьерном марафоне Московского Политеха, а также побывали на экскурсии в Центре карьерыи трудоустройства&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src=&#34;../excursion.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+
+    &lt;img src=&#34;../marathon.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Макет карьерных карт и айдентика</title>
+      <link>http://localhost:1313/blog/firstpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/firstpost/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Для проекта был разработан дизайн сайта, а также айдентика.&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src=&#34;../model.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+
+    &lt;img src=&#34;../design.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+
+    &lt;img src=&#34;../identic.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Проведен опрос</title>
+      <link>http://localhost:1313/blog/fourthpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/fourthpost/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Среди студентов был проведен опрос о сайте.&lt;/p&gt;
+&lt;p&gt;Всего прошли 51 человек.&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src=&#34;../opr_count.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Что оказалось наиболее полезным для студентов разных курсов&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;что-оказалось-наиболее-полезным-для-студентов-разных-курсов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d0%be%d0%ba%d0%b0%d0%b7%d0%b0%d0%bb%d0%be%d1%81%d1%8c-%d0%bd%d0%b0%d0%b8%d0%b1%d0%be%d0%bb%d0%b5%d0%b5-%d0%bf%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d1%8b%d0%bc-%d0%b4%d0%bb%d1%8f-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%be%d0%b2-%d1%80%d0%b0%d0%b7%d0%bd%d1%8b%d1%85-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;1 и 2 курсы чаще делали акцент на
+разделе с партнёрами Политеха и на
+наличии вакансий, отмечая для себя
+необходимость в поиске работы.&lt;/p&gt;
+&lt;p&gt;3 и 4 курсы: чаще всего указывали на
+полезность проекта в рамках понимания
+своей специальности и профессии и
+своего карьерного будущего.&lt;/p&gt;
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-orange-100 hx-bg-orange-50 hx-text-orange-800 dark:hx-border-orange-400/30 dark:hx-bg-orange-400/20 dark:hx-text-orange-300&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;&lt;ul&gt;
+&lt;li&gt;Студентам было легко найти информацию на сайте, и сложностей
+особо не возникало.&lt;/li&gt;
+&lt;li&gt;Однако на самом карьерном марафоне они довольно часто не
+могли быстро и самостоятельно разобраться, куда нажимать, чтобы
+перейти в перечень профессий или на саму карьерную карту.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;Студенты каких факультетов поучаствовали в опросе&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;студенты-каких-факультетов-поучаствовали-в-опросе&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d1%8b-%d0%ba%d0%b0%d0%ba%d0%b8%d1%85-%d1%84%d0%b0%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d0%b5%d1%82%d0%be%d0%b2-%d0%bf%d0%be%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%b2%d0%be%d0%b2%d0%b0%d0%bb%d0%b8-%d0%b2-%d0%be%d0%bf%d1%80%d0%be%d1%81%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;
+    &lt;img src=&#34;../opr_facs.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Какие разделы сайта оказались наиболее полезными&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;какие-разделы-сайта-оказались-наиболее-полезными&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%b0%d0%ba%d0%b8%d0%b5-%d1%80%d0%b0%d0%b7%d0%b4%d0%b5%d0%bb%d1%8b-%d1%81%d0%b0%d0%b9%d1%82%d0%b0-%d0%be%d0%ba%d0%b0%d0%b7%d0%b0%d0%bb%d0%b8%d1%81%d1%8c-%d0%bd%d0%b0%d0%b8%d0%b1%d0%be%d0%bb%d0%b5%d0%b5-%d0%bf%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d1%8b%d0%bc%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;
+    &lt;img src=&#34;../opr_razd.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Оценка качества предоставленной на сайте информации&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;оценка-качества-предоставленной-на-сайте-информации&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%86%d0%b5%d0%bd%d0%ba%d0%b0-%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0-%d0%bf%d1%80%d0%b5%d0%b4%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%bd%d0%be%d0%b9-%d0%bd%d0%b0-%d1%81%d0%b0%d0%b9%d1%82%d0%b5-%d0%b8%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d0%b8%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;
+    &lt;img src=&#34;../opr_grade.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Выводы&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;выводы&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b2%d1%8b%d0%b2%d0%be%d0%b4%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;
+    &lt;img src=&#34;../opr_result.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Разработка</title>
+      <link>http://localhost:1313/blog/secondpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/secondpost/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Разработана веб-страница на React,
+архитектурная методология
+Feature-Sliced Design&lt;/p&gt;
+&lt;p&gt;
+    &lt;img src=&#34;../code.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

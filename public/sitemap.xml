@@ -16,5 +16,13 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/thirdpost/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/firstpost/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/fourthpost/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/secondpost/</loc>
   </url>
 </urlset>
