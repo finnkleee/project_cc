@@ -10,6 +10,6 @@ title: 'Ресурсы'
 
 ## Полезные сслылки:
 
-[Карьерная карта — что это и зачем нужна](https://www.startexam.ru/journal/likbez/karernaya-karta-chto-eto-i-zachem-nuzhna/)
+[Карьерная карта — что это и зачем нужна↗](https://www.startexam.ru/journal/likbez/karernaya-karta-chto-eto-i-zachem-nuzhna/)
 
-[Карьерная карта: как запланировать успех](https://weeek.net/ru/blog/career-map)
+[Карьерная карта: как запланировать успех↗](https://weeek.net/ru/blog/career-map)
