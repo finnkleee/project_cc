@@ -8,7 +8,3 @@ title: ''
 Карьерные карты будут использоваться абитуриентами и студентами для снижения вероятности неправильного выбора специальности, а также для понимания карьерных перспектив.
 
 [Ссылка на сайт↗](https://mpu-career-card.github.io/frontend/)
-
-<div class="hx:mb-6">
-{{< hextra/hero-button text="Перейти на сайт" link="https://mpu-career-card.github.io/frontend/" >}}
-</div>

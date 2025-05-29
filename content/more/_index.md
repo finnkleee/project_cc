@@ -4,11 +4,11 @@ draft: true
 title: 'Ресурсы'
 ---
 
-## Партнер/заказчик проекта:
+### Партнер/заказчик проекта:
 
 [Московский Политех. Центр карьеры и трудоустройства ↗](https://mospolytech.ru/obuchauschimsya/trudoustrojstvo/)
 
-## Полезные сслылки:
+### Полезные сслылки:
 
 [Карьерная карта — что это и зачем нужна↗](https://www.startexam.ru/journal/likbez/karernaya-karta-chto-eto-i-zachem-nuzhna/)
 
